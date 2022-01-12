@@ -1,1 +1,1 @@
-# prog_korny_XFKP9C
+Varga Tamás - XFKP9C
