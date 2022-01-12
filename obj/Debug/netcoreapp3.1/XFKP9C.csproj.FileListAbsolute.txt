@@ -1,0 +1,15 @@
+C:\Users\Tamás\source\repos\XFKP9C\bin\Debug\netcoreapp3.1\XFKP9C.exe
+C:\Users\Tamás\source\repos\XFKP9C\bin\Debug\netcoreapp3.1\XFKP9C.deps.json
+C:\Users\Tamás\source\repos\XFKP9C\bin\Debug\netcoreapp3.1\XFKP9C.runtimeconfig.json
+C:\Users\Tamás\source\repos\XFKP9C\bin\Debug\netcoreapp3.1\XFKP9C.runtimeconfig.dev.json
+C:\Users\Tamás\source\repos\XFKP9C\bin\Debug\netcoreapp3.1\XFKP9C.dll
+C:\Users\Tamás\source\repos\XFKP9C\bin\Debug\netcoreapp3.1\XFKP9C.pdb
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.csprojAssemblyReference.cache
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.Form1.resources
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.csproj.GenerateResource.cache
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.AssemblyInfoInputs.cache
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.AssemblyInfo.cs
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.csproj.CoreCompileInputs.cache
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.dll
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.pdb
+C:\Users\Tamás\source\repos\XFKP9C\obj\Debug\netcoreapp3.1\XFKP9C.genruntimeconfig.cache

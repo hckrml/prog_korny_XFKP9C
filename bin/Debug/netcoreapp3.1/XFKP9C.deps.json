@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XFKP9C/1.0.0": {
+        "runtime": {
+          "XFKP9C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XFKP9C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
